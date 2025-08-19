@@ -1,3 +1,5 @@
+⚠️ This repository has moved to https://git.jeena.net/jeena/tt-rss-plugins
+
 # tt-rss-plugins
 
 To install download the code and put the directory with the plugin you want
